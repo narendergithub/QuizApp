@@ -1,0 +1,16 @@
+assessment_number,question_number,question_type,actual_question,answer,tolerance
+1,5,categorical,Mean for variable EARNINGS is:,37.12,0.1
+1,6,essay,Standard deviation for variable EARNINGS is:,33.92,0.1
+1,7,numeric,Mean for EARNINGS group FEMALE with a BS degree is:,43.5,0.1
+1,8,categorical,Standard deviation for EARNINGS group FEMALE with a BS degree is:,36.47,0.1
+1,9,essay,SE of mean for EARNINGS group FEMALE with a BS degree is:,2.75,0.1
+1,10,numeric,90% CL margin of error for EARNINGS group FEMALE with a BS degree is:,4.54,0.1
+1,11,categorical,Lower limit of the 90%CI for EARNINGS group FEMALE with a BS degree is:,38.95,0.1
+1,12,essay,Upper limit of the 90%CI for EARNINGS group FEMALE with a BS degree is:,48.04,0.1
+1,13,numeric,90% Student's t distribution critical value for EARNINGS group FEMALE with a BS degree is:,1.66,0.02
+1,14,categorical,t-test statistic for EARNINGS group FEMALE with a BS degree assuming population mean to be mean of all data is:,2.32,0.02
+1,15,essay,p-value for EARNINGS group FEMALE with a BS degree assuming population mean to be mean of all data is:,0.022,0.01
+1,17,categorical,t-test statistic for EARNINGS group MALE assuming population mean to be mean of all data is:,4.78,0.02
+1,18,essay,p-value for EARNINGS group MALE assuming population mean to be mean of all data is:,0,0.01
+1,19,numeric,t-test statistic for EARNINGS group MALE with a HS degree assuming population mean to be mean of all data is:,-2.54,0.02
+1,20,categorical,p-value for EARNINGS group MALE with a HS degree assuming population mean to be mean of all data is:,0.012,0.01
